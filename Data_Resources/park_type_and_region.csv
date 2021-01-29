@@ -1,0 +1,380 @@
+﻿parkCode,parkType,Region
+ABLI,National Historical Park,Southeast 
+ACAD,National Park,Northeast 
+ADAM,National Historical Park,Northeast 
+AFBG,National Monument,Northeast 
+AGFO,National Monument,Midwest 
+ALFL,National Monument,Intermountain 
+ALPO,National Historic Site,Northeast 
+AMIS,National Recreation Area,Intermountain 
+ANDE,National Historic Site,Southeast 
+ANJO,National Historic Site,Southeast 
+ANIA,National Monument,Alaska
+ANTI,National Battlefield,National Capital 
+APIS,National Lakeshore,Midwest 
+APCO,National Historical Park,Northeast 
+ARCH,National Park,Intermountain 
+ARPO,National Memorial,Midwest 
+ARHO,National Memorial,National Capital 
+ASIS,National Seashore,Northeast 
+AZRU,National Monument,Intermountain 
+BADL,National Park,Midwest 
+BAND,National Monument,Intermountain 
+BEPA,National Monument,National Capital 
+BEOL,National Historic Site,Intermountain 
+BELA,National Preserve,Alaska
+BIBE,National Park,Intermountain 
+BICY,National Preserve,Southeast 
+BIHO,National Battlefield,Pacific West 
+BISO,National River,Southeast 
+BITH,National Preserve,Intermountain 
+BICA,National Recreation Area,Intermountain 
+BISC,National Park,Southeast 
+BLCA,National Park,Intermountain 
+BLRI,National Parkway,Southeast 
+BLUE,National Wild & Scenic River,Northeast 
+BOWA,National Monument,Northeast 
+BOAF,National Historic Site,Northeast 
+BOST,National Historical Park,Northeast 
+BRVB,National Historic Site,Midwest 
+BRCA,National Park,Intermountain 
+BUIS,National Monument,Southeast 
+BUFF,National River,Midwest 
+CABR,National Monument,Pacific West 
+CANA,National Seashore,Southeast 
+CARI,National Historical Park,Southeast 
+CACH,National Monument,Intermountain 
+CANY,National Park,Intermountain 
+CACO,National Seashore,Northeast 
+CAHA,National Seashore,Southeast 
+CAKR,National Monument,Alaska
+CALO,National Seashore,Southeast 
+CARE,National Park,Intermountain 
+CAVO,National Monument,Intermountain 
+CARL,National Historic Site,Southeast 
+CAVE,National Park,Intermountain 
+CAWO,National Historic Site,National Capital 
+CAGR,National Monument,Intermountain 
+CASA,National Monument,Southeast 
+CACL,National Monument,Northeast 
+CATO,Park (Other),National Capital 
+CEBR,National Monument,Intermountain 
+CECH,National Monument,Pacific West 
+CHCU,National Historical Park,Intermountain 
+CHAM,National Memorial,Intermountain 
+CHIS,National Park,Pacific West 
+CHPI,National Historic Site,Southeast 
+CHYO,National Monument,Midwest 
+CHAT,National Recreation Area,Southeast 
+CHOH,National Historical Park,National Capital 
+CHCH,National Military Park,Southeast 
+CHIC,National Recreation Area,Intermountain 
+CHIR,National Monument,Intermountain 
+CHRI,National Historic Site,Southeast 
+CIRO,National Reserve,Pacific West 
+CLBA,National Historic Site,National Capital 
+COLO,National Historical Park,Northeast 
+COLM,National Monument,Intermountain 
+CONG,National Park,Southeast 
+CORO,National Memorial,Intermountain 
+COWP,National Battlefield,Southeast 
+CRLA,National Park,Pacific West 
+CRMO,National Monument,Pacific West 
+CUGA,National Historical Park,Southeast 
+CUIS,National Seashore,Southeast 
+CURE,National Recreation Area,Intermountain 
+CUVA,National Park,Midwest 
+DAAV,National Historical Park,Midwest 
+DESO,National Memorial,Southeast 
+DEVA,National Park,Pacific West 
+DEWA,National Recreation Area,Northeast 
+DENA,National Park,Alaska
+DEPO,National Monument,Pacific West 
+DETO,National Monument,Intermountain 
+DINO,National Monument,Intermountain 
+DRTO,National Park,Southeast 
+EDAL,National Historic Site,Northeast 
+EFMO,National Monument,Midwest 
+EISE,National Historic Site,Northeast 
+ELMA,National Monument,Intermountain 
+ELMO,National Monument,Intermountain 
+ELRO,National Historic Site,Northeast 
+EUON,National Historic Site,Pacific West 
+EVER,National Park,Southeast 
+FEHA,National Memorial,Northeast 
+FIIS,National Seashore,Northeast 
+FILA,National Historic Site,Midwest 
+FLNI,National Memorial,Northeast 
+FLFO,National Monument,Intermountain 
+FOTH,National Historic Site,National Capital 
+FOBO,National Historic Site,Intermountain 
+FOCA,National Memorial,Southeast 
+FODA,National Historic Site,Intermountain 
+FODO,National Battlefield,Southeast 
+FOFR,National Monument,Southeast 
+FOLA,National Historic Site,Intermountain 
+FOLS,National Historic Site,Midwest 
+FOMA,National Monument,Southeast 
+FOMC,National Monument,Northeast 
+FONE,National Battlefield,Northeast 
+FOPO,National Historic Site,Pacific West 
+FOPU,National Monument,Southeast 
+FORA,National Historic Site,Southeast 
+FOSC,National Historic Site,Midwest 
+FOSM,National Historic Site,Midwest 
+FOST,National Monument,Northeast 
+FOSU,National Historical Park,Southeast 
+FOUN,National Monument,Intermountain 
+FOUS,National Historic Site,Midwest 
+FOVA,National Historic Site,Pacific West 
+FOWA,Park (Other),National Capital 
+FOBU,National Monument,Intermountain 
+FRDE,National Memorial,National Capital 
+FRDO,National Historic Site,National Capital 
+FRLA,National Historic Site,Northeast 
+FRSP,National Military Park,Northeast 
+FRHI,National Historic Site,Northeast 
+GAAR,National Park,Alaska
+JEFF,National Park,Midwest 
+GATE,National Recreation Area,Northeast 
+GARI,National Recreation Area,Northeast 
+GEGR,National Memorial,Northeast 
+GERO,National Historical Park,Midwest 
+GEWA,National Monument,Northeast 
+GWCA,National Monument,Midwest 
+GWMP,National Parkway,National Capital 
+GETT,National Military Park,Northeast 
+GICL,National Monument,Intermountain 
+GLBA,National Park,Alaska
+GLAC,National Park,Intermountain 
+GLCA,National Recreation Area,Intermountain 
+GOGA,National Recreation Area,Pacific West 
+GOSP,National Historical Park,Intermountain 
+GOIS,National Monument,Northeast 
+GRCA,National Park,Intermountain 
+GRPO,National Monument,Midwest 
+GRTE,National Park,Intermountain 
+GRKO,National Historic Site,Intermountain 
+GRBA,National Park,Pacific West 
+GRSA,National Park,Intermountain 
+GRSM,National Park,Southeast 
+GREE,Park (Other),National Capital 
+GUMO,National Park,Intermountain 
+GUCO,National Military Park,Southeast 
+GUIS,National Seashore,Southeast 
+HAFO,National Monument,Pacific West 
+HALE,National Park,Pacific West 
+HAGR,National Memorial,Northeast 
+HAMP,National Historic Site,Northeast 
+HAFE,National Historical Park,National Capital 
+HSTR,National Historic Site,Midwest 
+HAVO,National Park,Pacific West 
+HEHO,National Historic Site,Midwest 
+HOFR,National Historic Site,Northeast 
+HOME,National Monument,Midwest 
+HOCU,National Historical Park,Midwest 
+HOFU,National Historic Site,Northeast 
+HOBE,National Military Park,Southeast 
+HOSP,National Park,Midwest 
+HOVE,National Monument,Intermountain 
+HUTR,National Historic Site,Intermountain 
+INDE,National Historical Park,Northeast 
+INDU,National Park,Midwest 
+ISRO,National Park,Midwest 
+JAGA,National Historic Site,Midwest 
+JELA,National Historical Park,Southeast 
+JECA,National Monument,Midwest 
+JICA,National Historic Site,Southeast 
+JODR,National Parkway,Intermountain 
+JODA,National Monument,Pacific West 
+JOFI,National Historic Site,Northeast 
+JOMU,National Historic Site,Pacific West 
+JOFL,National Memorial,Northeast 
+JOTR,National Park,Pacific West 
+KALA,National Historical Park,Pacific West 
+KAHO,National Historical Park,Pacific West 
+KATM,National Park,Alaska
+KEFJ,National Park,Alaska
+KEMO,National Battlefield Park,Southeast 
+KEWE,National Historical Park,Midwest 
+KICA,National Park,Pacific West 
+KIMO,National Military Park,Southeast 
+KLGO,National Historical Park,Alaska
+KLSE,National Historical Park,Pacific West 
+KNRI,National Historic Site,Midwest 
+KOVA,National Park,Alaska
+KOWA,National Memorial,National Capital 
+LACH,National Recreation Area,Pacific West 
+LACL,National Park,Alaska
+LAKE,National Recreation Area,Pacific West 
+LAMR,National Recreation Area,Intermountain 
+LARO,National Recreation Area,Pacific West 
+LAVO,National Park,Pacific West 
+LABE,National Monument,Pacific West 
+LYBA,National Memorial,National Capital 
+LEWI,National Historical Park,Pacific West 
+LIBO,National Memorial,Midwest 
+LIHO,National Historic Site,Midwest 
+LINC,National Memorial,National Capital 
+LIBI,National Monument,Intermountain 
+LIRI,National Preserve,Southeast 
+CHSC,National Historic Site,Midwest 
+LONG,National Historic Site,Northeast 
+LOWE,National Historical Park,Northeast 
+LYJO,National Historical Park,Intermountain 
+MAWA,National Historic Site,Northeast 
+MACA,National Park,Southeast 
+MANA,National Battlefield Park,National Capital 
+MAPR,National Historical Park,Intermountain 
+MANZ,National Historic Site,Pacific West 
+MABI,National Historical Park,Northeast 
+MLKM,National Memorial,National Capital 
+MALU,National Historical Park,Southeast 
+MAVA,National Historic Site,Northeast 
+MABE,National Historic Site,National Capital 
+MEVE,National Park,Intermountain 
+MIIN,National Historic Site,Pacific West 
+MIMA,National Historical Park,Northeast 
+MIMI,National Historic Site,Midwest 
+MISS,National River,Midwest 
+MNRR,National Wild & Scenic River,Midwest 
+MOJA,National Preserve,Pacific West 
+MONO,National Battlefield,National Capital 
+MOCA,National Monument,Intermountain 
+MOCR,National Battlefield,Southeast 
+MORR,National Historical Park,Northeast 
+MORA,National Park,Pacific West 
+MORU,National Memorial,Midwest 
+MUWO,National Monument,Pacific West 
+NATC,National Historical Park,Southeast 
+NATR,National Parkway,Southeast 
+NCPC,Park (Other),National Capital 
+NCPE,Park (Other),National Capital 
+NPSA,National Park,Pacific West 
+NABR,National Monument,Intermountain 
+NAVA,National Monument,Intermountain 
+NEBE,National Historical Park,Northeast 
+JAZZ,National Historical Park,Southeast 
+NERI,National Park,Northeast 
+NEPE,National Historical Park,Pacific West 
+NICO,National Historic Site,Midwest 
+NISI,National Historic Site,Southeast 
+NIOB,National Wild & Scenic River,Midwest 
+NOAT,National Preserve,Alaska
+NOCA,National Park,Pacific West 
+OBRI,National Wild & Scenic River,Southeast 
+OCMU,National Historical Park,Southeast 
+OLYM,National Park,Pacific West 
+ORCA,National Monument,Pacific West 
+ORPI,National Monument,Intermountain 
+OZAR,National River,Midwest 
+PAIS,National Seashore,Intermountain 
+PAAL,National Historical Park,Intermountain 
+PAGR,National Historical Park,Northeast 
+PERI,National Military Park,Midwest 
+PERL,National Memorial,Pacific West 
+PECO,National Historical Park,Intermountain 
+PAAV,National Historic Site,National Capital 
+PEVI,National Memorial,Midwest 
+PETE,National Battlefield,Northeast 
+PEFO,National Park,Intermountain 
+PETR,National Monument,Intermountain 
+PIRO,National Lakeshore,Midwest 
+PINN,National Park,Pacific West 
+PISP,National Monument,Intermountain 
+PIPE,National Monument,Midwest 
+PISC,Park (Other),National Capital 
+PORE,National Seashore,Pacific West 
+POCH,National Memorial,Pacific West 
+WICL,National Historic Site,Southeast 
+PRPA,Park (Other),National Capital 
+PRWI,Park (Other),National Capital 
+PUHO,National Historical Park,Pacific West 
+PUHE,National Historic Site,Pacific West 
+RABR,National Monument,Intermountain 
+REDW,National Park,Pacific West 
+RICH,National Battlefield Park,Northeast 
+RIGR,National Wild & Scenic River,Intermountain 
+RIRA,National Battlefield Park,Midwest 
+ROCR,Park (Other),National Capital 
+ROMO,National Park,Intermountain 
+ROWI,National Memorial,Northeast 
+RORI,National Historical Park,Pacific West 
+ROLA,National Recreation Area,Pacific West 
+RUCA,National Monument,Southeast 
+SAHI,National Historic Site,Northeast 
+SAGU,National Park,Intermountain 
+SACR,International Historic Site,Northeast 
+SACN,National Wild & Scenic River,Midwest 
+SAPA,National Historic Site,Northeast 
+SAGA,National Historical Park,Northeast 
+SAMA,National Historic Site,Northeast 
+SAPU,National Monument,Intermountain 
+SARI,National Historical Park,Southeast 
+SAAN,National Historical Park,Intermountain 
+SAFR,National Historical Park,Pacific West 
+SAJH,National Historical Park,Pacific West 
+SAJU,National Historic Site,Southeast 
+SAND,National Historic Site,Intermountain 
+SAMO,National Recreation Area,Pacific West 
+SARA,National Historical Park,Northeast 
+SAIR,National Historic Site,Northeast 
+SCBL,National Monument,Midwest 
+SEQU,National Park,Pacific West 
+SHEN,National Park,Northeast 
+SHIL,National Military Park,Southeast 
+SITK,National Historical Park,Alaska
+SLBE,National Lakeshore,Midwest 
+SPAR,National Historic Site,Northeast 
+STLI,National Monument,Northeast 
+STEA,National Historic Site,Northeast 
+STRI,National Battlefield,Southeast 
+STON,National Monument,Northeast 
+SUCR,National Monument,Intermountain 
+TAPR,National Preserve,Midwest 
+THKO,National Memorial,Northeast 
+THRB,National Historic Site,Northeast 
+THRI,National Historic Site,Northeast 
+THIS,National Memorial,National Capital 
+THRO,National Park,Midwest 
+EDIS,National Historical Park,Northeast 
+JEFM,National Memorial,National Capital 
+THST,National Historic Site,Northeast 
+TICA,National Monument,Intermountain 
+TIMU,National Preserve,Southeast 
+TONT,National Monument,Intermountain 
+TUMA,National Historical Park,Intermountain 
+TUAI,National Historic Site,Southeast 
+TUIN,National Historic Site,Southeast 
+TUZI,National Monument,Intermountain 
+ULSG,National Historic Site,Midwest 
+UPDE,National Wild & Scenic River,Northeast 
+VAFO,National Historical Park,Northeast 
+VAMA,National Historic Site,Northeast 
+VICK,National Military Park,Southeast 
+VIVE,National Memorial,National Capital 
+VIIS,National Park,Southeast 
+VOYA,National Park,Midwest 
+WACO,National Monument,Intermountain 
+WACA,National Monument,Intermountain 
+WAPA,National Historical Park,Pacific West 
+WAMO,National Memorial,National Capital 
+WABA,National Historic Site,Intermountain 
+WEFA,National Historic Site,Northeast 
+WHIS,National Recreation Area,Pacific West 
+WHHO,Park (Other),National Capital 
+WHSA,National Park,Intermountain 
+WHMI,National Historic Site,Pacific West 
+WIHO,National Historic Site,Midwest 
+WICR,National Battlefield,Midwest 
+WICA,National Park,Midwest 
+WOTR,Park (Other),National Capital 
+WORI,National Historical Park,Northeast 
+WWII,National Memorial,National Capital 
+WRST,National Park,Alaska
+WRBR,National Memorial,Southeast 
+WUPA,National Monument,Intermountain 
+YELL,National Park,Intermountain 
+YOSE,National Park,Pacific West 
+YUCH,National Preserve,Alaska
+ZION,National Park,Intermountain 

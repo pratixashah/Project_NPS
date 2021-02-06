@@ -40,11 +40,11 @@ We had a lot of questions about the data and found the following answers:
 **3. Which parks were the most and least visited?** We found the top 10 most visited over a ten year period. #1 was the Golden Gate National Recreation Area with over 14.8 million visits. We found the bottom 10 in the same period. Dead last on the list was Aniakchak National Monument and Preserve in Alaska. Aniakchak only gets an average of 96 visitors a year. *(see Gigi's notebook)* 
 
 **4. Which State/District Federal/Territory has most/least numbers of National Park?**  According to the data provided by National Park Service API: 
-#1 California has the greatest number of National Parks which is 30.
-#2 The District Federal DC has second highest number of National Parks which is 29.
-#3 There are 7 states/territories having 1 National Park for each location. 
+ #1 California has the greatest number of National Parks which is 30.
+ #2 The District Federal DC has second highest number of National Parks which is 29.
+ #3 There are 7 states/territories having 1 National Park for each location. 
    These 7 location includes 3 states (Delaware, New Hampshire, Vermont) and 4 territories (Northern Marianas, Guam, American Samoa, Puerto Rico ) 
-*(see Pratixa's notebook)*
+ *(see Pratixa's notebook)*
 
 **5. Popularity Index of Regions** As per our study, NPS has divided National Parks across USA in to 7 Regions. 
 After analyzing all region's visitation data over 10 years we came to following conclusion:

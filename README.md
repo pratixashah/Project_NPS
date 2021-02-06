@@ -14,9 +14,9 @@ The reader should see the following files in this repo:
 
 ## DATA RESOURCES:
 The data that we used came from multiple sources: 
-  NPS Stats database (https://irma.nps.gov/STATS/)
-  NPS API (https://www.nps.gov/subjects/developer/index.htm)
-  Open Weather API (https://openweathermap.org/api) 
+  * NPS Stats database (https://irma.nps.gov/STATS/)
+  * NPS API (https://www.nps.gov/subjects/developer/index.htm)
+  * Open Weather API (https://openweathermap.org/api) 
 
 
 ## ANALYTICAL PROCESS:

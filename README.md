@@ -5,7 +5,7 @@ by Gigi Jones and Pratixa Shah
 This repo contains the collaborative work that analyzes U.S. National Park Service's (NPS) data. Neither one of us has used this data before we started. As such, this research was inductive that we allowed the data to tell us the story as opposed to approaching the data with a set of pre-conceived research questions to restrict our analysis. 
 
 The reader should see the following files in this repo:
-  * Project1_National_Parks_Presentation.pdf - A pdf of the our final presentation
+  * Project1_National_Parks_Presentation.pdf - A pdf of our final presentation
   * Project_1_National_Parks_Gigi.ipynb - Gigi's data analysis as a Jupyter Notebook 
   * Project_1_National_Parks_Pratixa.ipynb - Pratixa's data analysis as a Jupyter Notebook
   * Data Resources - A folder for Data Resources including multiple csvs and excel files 
